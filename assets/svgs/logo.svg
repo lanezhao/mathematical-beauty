@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="640"
+     height="640"
+     viewBox="0 0 64 64">
+  <path id="guides"
+        fill="none"
+        stroke="#000"
+        stroke-width="0.02"
+        d="
+            M4 4h56v56h-56z
+            M4 12h56
+            M4 20h56
+            M4 28h56
+            M4 36h56
+            M4 44h56
+            M4 52h56
+            M12 4v56
+            M20 4v56
+            M28 4v56
+            M36 4v56
+            M44 4v56
+            M52 4v56
+          " />
+  <g fill="none"
+     stroke="#0984E3"
+     stroke-width="0.4">
+    <path stroke-opacity=".16"
+          d="
+            M4 36
+            L28 4
+            L60 28
+            M28 4
+            v24
+          " />
+    <path stroke-dasharray="0.5,1"
+          d="
+            M4 36
+            L28 4
+            L60 28
+            M28 4
+            v24
+          " />
+    <path d="
+            M60 28
+            L36 60
+            L4 36
+            M60 28
+            h-32
+            v8
+            M36 60
+            v-32
+            M4 36
+            h32
+          " />
+    <path stroke-opacity=".32"
+          d="
+            M60 28
+            v32
+            h-56
+            v-24
+            M28 36
+            v24
+          " />
+  </g>
+</svg>

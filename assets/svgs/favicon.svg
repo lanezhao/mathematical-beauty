@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="32"
+     height="32"
+     viewBox="0 0 32 32">
+  <!-- <path id="guides"
+        fill="none"
+        stroke="#000"
+        stroke-width="0.02"
+        d="
+            M2 2h28v28h-28z
+            M2 6h28
+            M2 10h28
+            M2 14h28
+            M2 18h28
+            M2 22h28
+            M2 26h28
+            M6 2v28
+            M10 2v28
+            M14 2v28
+            M18 2v28
+            M22 2v28
+            M26 2v28
+          " /> -->
+  <path fill="none"
+        stroke="#0984E3"
+        stroke-width="1"
+        d="
+            M14 2
+            L30 14
+            L18 30
+            L2 18
+            z
+            v16
+            M30 14
+            h-16
+            M18 30
+            v-16
+            M2 18
+            h16
+          " />
+</svg>
